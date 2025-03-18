@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Jesús David Cervantes Cañedo<br>Soy un desarrollador de software apasionado por crear aplicaciones limpias, eficientes y escalables. Me encanta trabajar con JavaScript, explorar nuevas tecnologías y mejorar constantemente mis habilidades de programación.<br><br>💻 Tecnologías con las que trabajo: JavaScript (React, Node.js), HTML, CSS y bases de datos como MongoDB y PostgreSQL.<br>🚀 Lo que me emociona: Resolver problemas, optimizar el rendimiento y crear experiencias de usuario intuitivas.<br>☕ Dato curioso: Cuando no estoy programando, probablemente me encuentres preparando café<br><br>¡Échale un vistazo a mis proyectos y conectemos! 🚀
+👋 ¡Hola! Soy Jesús David Cervantes Cañedo<br>Me dedico al desarrollo de software y disfruto creando aplicaciones que ayuden a las personas en su día a día. Suelo trabajar con JavaScript, experimentar con nuevas tecnologías y seguir mejorando mis habilidades.<br><br>💻 Tecnologías con las que suelo trabajar: JavaScript (React, Node.js), HTML, CSS y bases de datos como MongoDB y PostgreSQL.<br>🚀 Lo que más me motiva: Resolver problemas, aportar a la comunidad y ayudar a la gente.<br>☕ Dato curioso: Si no estoy programando, probablemente esté preparando café.<br>
+
 
 
 ## 🌐 Socials:
